@@ -4,4 +4,6 @@ class test{
         System.out.println("hello");
     }
 
+    public void hello(){}
+
 }
